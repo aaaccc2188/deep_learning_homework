@@ -2,7 +2,7 @@
 
 ## Background
 
-This project aims to use LTSM RNNs to forecast Bitcoin closing prices. One model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the closing price.
+This project aims to use LSTM RNNs to forecast Bitcoin closing prices. One morewill use a window of closing prices to predict the closing price, while the second model will use the FNG indicators to predict the closing price.
 
 The [Crypto Fear and Greed Index (FNG)](https://alternative.me/crypto/fear-and-greed-index/) is a sentiment indicator.
 
