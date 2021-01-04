@@ -37,10 +37,10 @@ Two LSTM RNN models were built (both use 70% of the data for training and 30% of
 - 1-day window size works best for both models
     - Closing Price Model: 1D Window Loss of 0.0135 vs. 10D Window Loss of 0.0444
     
-    1-day Window
+    1-day Window Closing Price:
     ![1D Closing Price](images/1D_closing.png)
     
     - FNG Model: 1D Window Loss of 0.0942 vs. 10D Window Loss of 0.1088
     
-    1-day Window
+    1-day Window FNG Value:
     ![1D FNG](images/1D_FNG.png)
