@@ -22,11 +22,11 @@ Two LSTM RNN models were built (both use 70% of the data for training and 30% of
 
 1. Closing Price Model: use a rolling 10-day window of Bitcoin closing prices to predict the 11th day closing price
 
-![Closing Price](images/closing_price.PNG)
+![Closing Price](images/10D_closing.PNG)
 
 2. FNG Value Model: uses a rolling 10-day window of Bitcoin fear and greed index values to predict the 11th day closing price
 
-![FNG Value](images/FNG.PNG)
+![FNG Value](images/10D_FNG.PNG)
 
 #### Model Performance
 
